@@ -6,5 +6,9 @@ public class Main {
         System.out.println("Hello, World! modify ");
 
         System.out.println("Hello, World! modify 2");
+
+        System.out.println("merge test dev commit 1");
+        System.out.println("merge test dev commit 1");
+        System.out.println("merge test dev commit 1");
     }
 }
