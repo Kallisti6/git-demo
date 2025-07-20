@@ -8,5 +8,10 @@ public class Student {
         System.out.println("master go go go");
         System.out.println("master go go go");
         System.out.println("master go go go");
+
+
+        System.out.println("master gogogo");
+        System.out.println("master gogogo");
+        System.out.println("master gogogo2 master 测试 ，master 单独commit 2次");
     }
 }
