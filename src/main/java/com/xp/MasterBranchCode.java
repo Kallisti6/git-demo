@@ -8,5 +8,11 @@ public class MasterBranchCode {
         System.out.println("This is the master branch code 111");
         System.out.println("This is the master branch code 111");
         System.out.println("This is the master branch code 111");
+
+
+        System.out.println("reset test , master code 111");
+        System.out.println("reset test , master code 111");
+        System.out.println("reset test , master code 111");
+        System.out.println("reset test , master code 111");
     }
 }
